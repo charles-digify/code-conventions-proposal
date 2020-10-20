@@ -6,7 +6,7 @@
 - Use hooks.
 - Use Function Components as much as possible.
 - Use named exports as much as possible.
-- If there are a lot of props, try to follow the following format:
+- If there are a lot of props, try to follow the following format:  
 ```html
 <MyComponent
 	className="my-component"

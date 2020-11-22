@@ -14,7 +14,7 @@ export const myExport = something;
 
 import { myExport } from './myExport';
 ```
-- If there are a lot of props, try to follow the following format:  
+- If there are a lot of props, try to follow the following format:
 ```html
 <MyComponent
 	className="my-component"
@@ -46,3 +46,7 @@ const array =
 ## Backend
 
 SOON™
+
+## Git
+- Use **present tense** in commit messages. (E.g. "Add payment feature")
+- Make detailed commit messages as much as possible.
